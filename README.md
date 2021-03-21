@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificail intilligent robots and next level automation
 - 🌱 I’m currently working as a **Tensorflow Developer**
 - 💞️ I’m looking to collaborate on **Deep Learning**
-- 📫 You can reach me **imaqafridi@gmail.com** twitter: **@imaqafridi** Linkedin: **aqafridi**
+- 📫 You can reach me **imaqafridi@gmail.com** twitter: **@imaqafridi** Linkedin: **@aqafridi**
 ![]()
 
 <!---
