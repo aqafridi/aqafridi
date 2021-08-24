@@ -3,6 +3,8 @@
 - 🌱 I’m currently working as a **Tensorflow Developer**.
 - 💞️ I’m looking to collaborate on **Deep Learning**.
 - 📫 You can reach me **imaqafridi@gmail.com** twitter: <a href="https://twitter.com/imaqafridi"> **@imaqafridi** </a> Linkedin: <a href="https://www.linkedin.com/in/aqafridi/"> **@aqafridi** </a>
+
+
 ![]()
 [![Abdul Qadeer GitHub stats](https://github-readme-stats.vercel.app/api?username=aqafridi&show_icons=true&hide=prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!---
