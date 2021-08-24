@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Abdul Qadeer Afridi** an **Electronic** & **Software Engineer**.
+- 👋 Hi, I’m **Abdul Qadeer Afridi** an **Electrical** & **Computer Engineer**.
 - 👀 I’m interested in **Artificail intilligent robots and next level automation**.
 - 🌱 I’m currently working as a **Tensorflow Developer**.
 - 💞️ I’m looking to collaborate on **Deep Learning**.
