@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Abdul Qadeer Afridi** an **Electrical** & **Computer Engineer**.
 - 👀 I’m interested in **Artificail intilligent robots and next level automation**.
-- 🌱 I’m currently working as a **Tensorflow Developer**.
-- 💞️ I’m looking to collaborate on **Deep Learning**.
+- 🌱 I’m currently working as a **Deep Learning Engineer & Tensorflow Developer**.
+- 💞️ I’m looking to collaborate on **Deep Learning (Advanced Computer Vision & NLP) for Humanoids**.
 - 📫 You can reach me **imaqafridi@gmail.com** twitter: <a href="https://twitter.com/imaqafridi"> **@imaqafridi** </a> Linkedin: <a href="https://www.linkedin.com/in/aqafridi/"> **@aqafridi** </a>
 </br>
 
