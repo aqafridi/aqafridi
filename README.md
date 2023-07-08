@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Abdul Qadeer Afridi** an **Electrical** & **Computer Engineer**.
-- 👀 I’m interested in **Artificail Intilligent Robots and Next Level Automation**.
+- 👀 I’m interested in **Computer Vision, Artificail Intilligent Robots and Next Level Automation**.
 - 🌱 I’m currently working as a **Artificail Intelligence Engineer, Data Scientist & Tensorflow Adavanced Developer**.
 - 💞️ I’m looking to collaborate on **Deep Learning (Advanced Computer Vision & NLP) for Humanoids**.
 - 📫 You can reach me **imaqafridi@gmail.com**  **twitter:** </font> <a href="https://twitter.com/imaqafridi"> **@imaqafridi** </a> **Linkedin:** <a href="https://www.linkedin.com/in/aqafridi/"> **@aqafridi** </a>
