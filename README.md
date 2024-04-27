@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Abdul Qadeer Afridi** an **Electrical** & **Computer Engineer**.
+- 👋 Hi, I’m **Abdul Qadeer Afridi** an **AI/ML Expert** & **Engineer**.
 - 👀 I’m interested in **Computer Vision, Artificail Intilligent Robots and Next Level Automation**.
 - 🌱 I’m currently working as a **CTO of TanXor, AI/ML Engineer, Research Engineer**.
 - 💞️ I’m looking to collaborate on **Deep Learning (Advanced Computer Vision & NLP) for Humanoids**.
