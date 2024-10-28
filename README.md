@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Computer Vision, Artificail Intilligent Robots and Next Level Automation**.
 - 🌱 I’m currently working as a **CTO of TanXor, AI/ML Engineer, Research Engineer**.
 - 💞️ I’m looking to collaborate on **Deep Learning (Advanced Computer Vision & NLP) for Humanoids**.
-- 📫 You can reach me **imaqafridi@gmail.com**  **twitter:** </font> <a href="https://twitter.com/imaqafridi"> **@imaqafridi** </a> **Linkedin:** <a href="https://www.linkedin.com/in/aqafridi/"> **@aqafridi** </a>
+- 📫 You can reach me **Linkedin:** <a href="https://www.linkedin.com/in/aqafridi/"> **@aqafridi** </a>
 </br>
 
 ![]()
