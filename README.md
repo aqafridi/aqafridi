@@ -1,4 +1,4 @@
-**I Wish I could write more public code lol**
+**I Wish, I Could Write More Public Code lol**
 - 👋 Hi, I’m **Abdul Qadeer Afridi** an **AI/ML Expert** & **Engineer**.
 - 👀 I’m interested in **Computer Vision, Artificail Intilligent Robots and Next Level Automation**.
 - 🌱 I’m currently working as a **CTO of TanXor, AI/ML Engineer, Research Engineer**.
